@@ -29,7 +29,7 @@ URL del Repositorio:https://github.com/Bryan-BarrosV/icc-u2-sets.git
 
 ## 🚀 Ejecución
 
-![Resultado de Ejecución](Sets.PNG)
+![Resultado de Ejecución](Sets.png)
 
 ---
 
