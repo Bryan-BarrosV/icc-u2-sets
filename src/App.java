@@ -1,4 +1,5 @@
 import controllers.ContactoController;
+import controllers.Ejercicios;
 import controllers.Sets;
 import java.util.Set;
 
@@ -14,6 +15,7 @@ public class App {
         runTreeSetComparationInverso(sets);
 
         new ContactoController();
+        Ejercicios ejercicios=new Ejercicios();
     }
 
     public static void runHashSet(Sets sets) {
