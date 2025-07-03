@@ -1,3 +1,5 @@
+import controllers.ContactoController;
+import controllers.Sets;
 import java.util.Set;
 
 public class App {
@@ -10,6 +12,8 @@ public class App {
         runHashSetTree(sets);
         runTreeSetComparation(sets);
         runTreeSetComparationInverso(sets);
+
+        new ContactoController();
     }
 
     public static void runHashSet(Sets sets) {
